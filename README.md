@@ -7,7 +7,7 @@ Raw Results:[[Raw Results]](https://drive.google.com/drive/folders/1nuU4LyH1NLPs
 
 
 ## :sunny: Structure of AQATrack 
-![structure](https://github.com/JinxiaXie/AQATrack/blob/main/assets/arch.png)
+![structure](https://github.com/GXNU-ZhongLab/MambaLCT/blob/main/assets/arch.png)
 
 
 ## :sunny: Highlights
