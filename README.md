@@ -13,10 +13,9 @@ Raw Results:[[Raw Results]](https://drive.google.com/drive/folders/1nuU4LyH1NLPs
 ## :sunny: Highlights
 
 ### :star2: New Autoregressive Query-based Tracking Framework
-AQATrack is a simple, high-performance **autoregressive query-based spatio-temporal tracker** for adaptive learning the instantaneous target appearance changes in a sliding window
-fashion. Without any additional upadate strategy, AQATrack achieves SOTA performance on multiple benchmarks.
 
-| Tracker     | LaSOT (AUC)|LaSOT<sub>ext (AUC)|UAV123 (AUC)|TrackingNet (AUC)|TNL2K(AUC)|GOT-10K (AO)
-|:-----------:|:----------:|:-----------------:|:----------:|:---------------:|:--------:|:----------:
-| AQATrack-256| 71.4       | 51.2              | 70.7       | 83.8            | 57.8     | 73.8         
-| AQATrack-384| 72.7       | 52.7              | 71.2       | 84.8            | 59.3     | 76.0         
+
+| Tracker     | LaSOT (AUC)|LaSOT<sub>ext (AUC)|TrackingNet (AUC)|GOT-10K (AO)
+|:-----------:|:----------:|:-----------------:|:---------------:|:----------:
+| AQATrack-256| 71.8       | 51.6              | 84.3            | 74.8         
+| AQATrack-384| 73.6       | 53.3              | 85.2            | 76.2         
