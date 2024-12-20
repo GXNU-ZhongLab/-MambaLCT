@@ -6,16 +6,16 @@ Models:[[Models]](https://drive.google.com/drive/folders/1PtpomZNItT6B7gdf4hnH3n
 Raw Results:[[Raw Results]](https://drive.google.com/drive/folders/1nuU4LyH1NLPs1U9mrxNCdkhptv6Vc2Nr?usp=drive_link)
 
 
-## :sunny: Structure of AQATrack 
+## :sunny: Structure of MambaLCT 
 ![structure](https://github.com/GXNU-ZhongLab/MambaLCT/blob/main/assets/arch.png)
 
 
 ## :sunny: Highlights
 
-### :star2: New Autoregressive Query-based Tracking Framework
+### :star2: 
 
 
 | Tracker     | LaSOT (AUC)|LaSOT<sub>ext (AUC)|TrackingNet (AUC)|GOT-10K (AO)
 |:-----------:|:----------:|:-----------------:|:---------------:|:----------:
-| AQATrack-256| 71.8       | 51.6              | 84.3            | 74.8         
-| AQATrack-384| 73.6       | 53.3              | 85.2            | 76.2         
+| MambaLCT-256| 71.8       | 51.6              | 84.3            | 74.8         
+| MambaLCT-384| 73.6       | 53.3              | 85.2            | 76.2         
